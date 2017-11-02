@@ -28,6 +28,6 @@ public class HelloWorld {
   }
 
   private String newFeature2_1() {
-    return "this is new feature 2-1";
+    return "this is new feature 2-1-detached-head";
   }
 }
