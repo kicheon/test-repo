@@ -16,4 +16,8 @@ public class HelloWorld {
     String address = "http://localhost:9000/HelloWorld";
     Endpoint.publish(address, implementor);
   }
+
+  private String newFeatureInMaster() {
+    return "New feature in master";
+  }
 }
