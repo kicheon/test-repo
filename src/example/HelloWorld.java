@@ -26,4 +26,8 @@ public class HelloWorld {
     return "this is feature/new-feature";
 
   }
+
+  private String newFeature2_1() {
+    return "this is new feature 2-1";
+  }
 }
