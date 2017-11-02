@@ -17,7 +17,13 @@ public class HelloWorld {
     Endpoint.publish(address, implementor);
   }
 
+
   private String newFeatureInMaster() {
     return "New feature in master";
+  }
+
+  private String newFeature() {
+    return "this is feature/new-feature";
+
   }
 }
