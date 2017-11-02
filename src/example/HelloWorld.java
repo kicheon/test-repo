@@ -24,7 +24,6 @@ public class HelloWorld {
 
   private String newFeature() {
     return "this is feature/new-feature";
-
   }
 
   private String newFeature2_1() {
