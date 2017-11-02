@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="020052b5-4a07-4013-b147-e48a195cbf2c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/example/HelloWorld.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/example/HelloWorld.java" afterPath="$PROJECT_DIR$/src/example/HelloWorld.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,9 +17,12 @@
       <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/example/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-              <folding />
+            <state relative-caret-position="418">
+              <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+              <folding>
+                <element signature="e#535#536#0" expanded="true" />
+                <element signature="e#581#582#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -32,6 +35,13 @@
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/example/HelloWorld.java" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -222,12 +232,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509606904821</updated>
-      <workItem from="1509606911472" duration="51000" />
+      <workItem from="1509606911472" duration="462000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51000" />
+    <option name="totallyTimeSpent" value="462000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -277,9 +287,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/example/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-          <folding />
+        <state relative-caret-position="418">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding>
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
